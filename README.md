@@ -12,7 +12,7 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 <p align="center">
 	<img src="https://telegra.ph/file/d8bb0b95392b37cd925cd.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">NAZE DEV</h1>
+<h1 align="center">ITOSHI-RIN</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
